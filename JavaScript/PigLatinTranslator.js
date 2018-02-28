@@ -1,3 +1,10 @@
+/*
+PigLatinTranslator.js
+Simple Programs
+
+Copyright © 2018 Ethan Dye. All rights reserved.
+*/
+
 console.log('Welcome to Pig Latin Translator!');
 
 function PigTrans() {
@@ -16,7 +23,7 @@ function PigTrans() {
 }
 
 function ContCheck() {
-    /* Checks if python should run PigTrans again */
+    /* Checks if JavaScript should run PigTrans again */
     var runAgain = prompt("Please type 'continue' to translate another word or type 'exit' to close:");
     runAgain.toLowerCase();
     

@@ -1,4 +1,11 @@
-﻿print ("Welcome to Pig Latin Translator!")
+"""
+PigLatinTranslator.py
+Simple Programs
+
+Copyright © 2018 Ethan Dye. All rights reserved.
+"""
+
+print ("Welcome to Pig Latin Translator!")
 
 
 def PigTrans():
@@ -17,7 +24,7 @@ def PigTrans():
 
 
 def ContCheck():
-    """Checks if python should run PigTrans again"""
+    """Checks if Python should run PigTrans again"""
     runAgain = input("""
 Please type 'continue'
 to translate another word

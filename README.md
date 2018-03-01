@@ -2,9 +2,15 @@
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
-This is a bunch of simple programs written in many languages to help show the differences between them all. Please feel free to contribute.
+This is a repositry of simple programs written in many languages to help show the differences between them all. Please feel free to contribute.
 
-## PigLatinTranslator
+#### Table of Contents
+
+* [PigLatinTranslator](#piglatintranslator)
+
+PigLatinTranslator
+===================
+
 [![Language](https://img.shields.io/badge/language-JavaScript-orange.svg?colorB=F7DF1E)](https://github.com/Mrtops/Simple-Programs/JavaScript/PigLatinTranslator.js)
 [![Language](https://img.shields.io/badge/language-Python-orange.svg?colorB=3673A6)](https://github.com/Mrtops/Simple-Programs/Python/PigLatinTranslator.py)
 [![Language](https://img.shields.io/badge/language-Ruby-orange.svg?colorB=B11205)](https://github.com/Mrtops/Simple-Programs/Ruby/PigLatinTranslator.rb)

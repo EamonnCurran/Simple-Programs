@@ -1,9 +1,9 @@
-/*
-PigLatinTranslator.js
-Simple Programs
-
-Copyright © 2018 Ethan Dye. All rights reserved.
-*/
+/*************************************************
+* PigLatinTranslator.js
+* Simple Programs
+*
+* Copyright © 2018 Ethan Dye. All rights reserved.
+*************************************************/
 
 console.log('Welcome to Pig Latin Translator!');
 

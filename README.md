@@ -28,6 +28,7 @@ Good luck!
 [![Language](https://img.shields.io/badge/language-C%23-orange.svg?colorB=9B4F97)](https://github.com/Mrtops/Simple-Programs/blob/master/C%23/Hello-World.cs)
 [![Language](https://img.shields.io/badge/language-C++-orange.svg?colorB=659AD2)](https://github.com/Mrtops/Simple-Programs/blob/master/C%2B%2B/Hello-World.cpp)
 [![Language](https://img.shields.io/badge/language-C-orange.svg?colorB=A8B9CC)](https://github.com/Mrtops/Simple-Programs/blob/master/C/Hello-World.c)
+[![Language](https://img.shields.io/badge/language-Java-orange.svg?colorB=5382A1)](https://github.com/Mrtops/Simple-Programs/blob/master/Java/Hello-World.java)
 [![Language](https://img.shields.io/badge/language-JavaScript-orange.svg?colorB=F7DF1E)](https://github.com/Mrtops/Simple-Programs/blob/master/JavaScript/Hello-World.js)
 [![Language](https://img.shields.io/badge/language-Objective--C-orange.svg?colorB=FF891E)](https://github.com/Mrtops/Simple-Programs/blob/master/Objective-C/Hello-World.m)
 [![Language](https://img.shields.io/badge/language-Perl-orange.svg?colorB=4E5D84)](https://github.com/Mrtops/Simple-Programs/blob/master/Perl/Hello-World.pl)

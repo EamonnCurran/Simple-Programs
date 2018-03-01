@@ -8,11 +8,10 @@ This is a repositry of simple programs written in many languages to help show th
 
 * [Contributing](#contributing)
 * [Programs](#programs)
-    * [Hello, World!](#helloworld!)
+    * [Hello, World!](#hello-world)
     * [PigLatinTranslator](#piglatintranslator)
 
-Contributing
-=========
+# Contributing
 
 We'd love you to contribute to Simple Programs . First, please read our [Contribution Guide](https://github.com/Mrtops/Simple-Programs/blob/master/docs/Contributing.md) and [Code of Conduct](https://github.com/Mrtops/Simple-Programs/blob/master/docs/CODE_OF_CONDUCT.md#code-of-conduct).
 
@@ -22,11 +21,9 @@ Alternatively, for something more substantial, check out one of the issues label
 
 Good luck!
 
-Programs
-========
+# Programs
 
 ## Hello, World!
-## ============
 
 [![Language](https://img.shields.io/badge/language-C%23-orange.svg?colorB=9B4F97)](https://github.com/Mrtops/Simple-Programs/blob/master/C%23/Hello-World.cs)
 [![Language](https://img.shields.io/badge/language-C++-orange.svg?colorB=659AD2)](https://github.com/Mrtops/Simple-Programs/blob/master/C%2B%2B/Hello-World.cpp)
@@ -41,7 +38,6 @@ Programs
 Hello, World! is the classic "Hello, World!" program
 
 ## PigLatinTranslator
-## ==================
 
 [![Language](https://img.shields.io/badge/language-JavaScript-orange.svg?colorB=F7DF1E)](https://github.com/Mrtops/Simple-Programs/blob/master/JavaScript/PigLatinTranslator.js)
 [![Language](https://img.shields.io/badge/language-Python-orange.svg?colorB=3673A6)](https://github.com/Mrtops/Simple-Programs/blob/master/Python/PigLatinTranslator.py)

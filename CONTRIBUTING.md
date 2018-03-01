@@ -18,6 +18,6 @@ First time contributing to Simple Programs? Read our [Code of Conduct](https://g
 
 * add respective language badges to `foo` program in the README.md file
 * `git commit` with message formatted `foo: add language(s) <insert languages>`
-* open a pull request and wait for it to be merged
+* open a pull request using the pull request template and wait for it to be merged
 
 Thanks!

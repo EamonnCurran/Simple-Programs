@@ -1,5 +1,7 @@
 # Contributing to Simple Programs
 
+First time contributing to Simple Programs? Read our [Code of Conduct](https://github.com/Mrtops/Simple-Programs/blob/master/CODE_OF_CONDUCT.md#code-of-conduct).
+
 ### Report a bug for `foo` program
 
 * check that you issue is not alredy open or has not been already fixed

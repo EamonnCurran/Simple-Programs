@@ -5,7 +5,7 @@ First time contributing to Simple Programs? Read our [Code of Conduct](https://g
 ### Report a bug for `foo` program
 
 * check that you issue is not alredy open or has not been already fixed
-* open an issue describing your issue with as much detail as possible and add `foo` program tag to it
+* open an issue and follow the issue template and then add `foo` program tag to it
 
 ### Add a new program 
 

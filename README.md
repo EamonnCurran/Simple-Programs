@@ -8,6 +8,7 @@ This is a repositry of simple programs written in many languages to help show th
 
 * [Contributing](#contributing)
 * [Programs](#programs)
+    * [Flip a Coin](#flip-a-coin)
     * [Hello, World!](#hello-world)
     * [PigLatinTranslator](#piglatintranslator)
 
@@ -23,6 +24,11 @@ Alternatively, for something more substantial, check out one of the issues label
 Good luck!
 
 # Programs
+
+## Flip a Coin
+[![Language](https://img.shields.io/badge/language-JavaScript-orange.svg?colorB=F7DF1E)](https://github.com/Mrtops/Simple-Programs/blob/master/JavaScript/Flip-a-Coin.js)
+[![Language](https://img.shields.io/badge/language-Python-orange.svg?colorB=3673A6)](https://github.com/Mrtops/Simple-Programs/blob/master/Python/Flip-a-Coin.py)
+[![Language](https://img.shields.io/badge/language-Ruby-orange.svg?colorB=B11205)](https://github.com/Mrtops/Simple-Programs/blob/master/Ruby/Flip-a-Coin.rb)
 
 ## Hello, World!
 

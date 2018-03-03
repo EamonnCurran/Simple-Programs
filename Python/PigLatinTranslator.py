@@ -2,10 +2,10 @@
 PigLatinTranslator.py
 Simple Programs
 
-Copyright © 2018 Ethan Dye. All rights reserved.
+Copyright (C) 2018 Ethan Dye. All rights reserved.
 """
 
-print ("Welcome to Pig Latin Translator!")
+print("Welcome to Pig Latin Translator!")
 
 
 def PigTrans():
@@ -18,9 +18,9 @@ def PigTrans():
         first = word[0]
         second = word[1].upper()
         new_word = second + word[2:len(word)] + first + pyg
-        print (new_word)
+        print(new_word)
     else:
-        print ("Not a valid word")
+        print("Not a valid word")
 
 
 def ContCheck():
@@ -39,6 +39,7 @@ or type 'exit' to close:
     else:
         print("Please choose to either continue or exit")
         ContCheck()
+
 
 PigTrans()
 ContCheck()

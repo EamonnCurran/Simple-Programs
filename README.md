@@ -29,6 +29,7 @@ Good luck!
 [![Language](https://img.shields.io/badge/language-JavaScript-orange.svg?colorB=F7DF1E)](https://github.com/Mrtops/Simple-Programs/blob/master/JavaScript/Flip-a-Coin.js)
 [![Language](https://img.shields.io/badge/language-Python-orange.svg?colorB=3673A6)](https://github.com/Mrtops/Simple-Programs/blob/master/Python/Flip-a-Coin.py)
 [![Language](https://img.shields.io/badge/language-Ruby-orange.svg?colorB=B11205)](https://github.com/Mrtops/Simple-Programs/blob/master/Ruby/Flip-a-Coin.rb)
+
 Flip a Coin is a program that flips coins
 
 ## Hello, World!

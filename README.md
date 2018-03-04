@@ -29,6 +29,7 @@ Good luck!
 [![Language](https://img.shields.io/badge/language-JavaScript-orange.svg?colorB=F7DF1E)](https://github.com/Mrtops/Simple-Programs/blob/master/JavaScript/Flip-a-Coin.js)
 [![Language](https://img.shields.io/badge/language-Python-orange.svg?colorB=3673A6)](https://github.com/Mrtops/Simple-Programs/blob/master/Python/Flip-a-Coin.py)
 [![Language](https://img.shields.io/badge/language-Ruby-orange.svg?colorB=B11205)](https://github.com/Mrtops/Simple-Programs/blob/master/Ruby/Flip-a-Coin.rb)
+Flip a Coin is a program that flips coins
 
 ## Hello, World!
 
@@ -52,4 +53,4 @@ Hello, World! is the classic "Hello, World!" program
 [![Language](https://img.shields.io/badge/language-Ruby-orange.svg?colorB=B11205)](https://github.com/Mrtops/Simple-Programs/blob/master/Ruby/PigLatinTranslator.rb)
 [![Language](https://img.shields.io/badge/language-Swift-orange.svg?colorB=FC3A26)](https://github.com/Mrtops/Simple-Programs/blob/master/Swift/PigLatinTranslator.swift)
 
-PigLatinTranslator is a simple program that translates english words into their Pig-Latin variants.
+PigLatinTranslator is a simple program that translates english words into their Pig-Latin variants

@@ -38,7 +38,7 @@ extension String {
         let end = index(start, offsetBy: range.upperBound - range.lowerBound)
         return String(self[start ..< end])
     }
-    
+
 }
 
 func doHaveNum(string: String) -> Bool {
@@ -79,5 +79,6 @@ func contCheck() {
         contCheck()
     }
 }
+
 pigTrans()
 contCheck()

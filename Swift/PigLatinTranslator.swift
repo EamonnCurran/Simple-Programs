@@ -60,7 +60,7 @@ func PigTrans() {
 func ContCheck() {
     /* Checks if Swift should run PigTrans again */
     print("Please type 'continue' to translate another word or type 'exit' to close:")
-    let runAgain = getInput.lowercased()
+    let runAgain = getInput().lowercased()
 
     if runAgain == "continue" {
         PigTrans()

@@ -41,7 +41,7 @@ func doHaveNum(_string: String) -> Bool {
     return containsNumber
 }
 
-func PigTrans() {
+func pigTrans() {
     /* Translates words into Pig Latin */
     let pyg = "ay"
     print("Enter a word:")
@@ -57,20 +57,20 @@ func PigTrans() {
     }
 }
 
-func ContCheck() {
+func contCheck() {
     /* Checks if Swift should run PigTrans again */
     print("Please type 'continue' to translate another word or type 'exit' to close:")
     let runAgain = getInput().lowercased()
 
     if runAgain == "continue" {
-        PigTrans()
-        ContCheck()
+        pigTrans()
+        contCheck()
     } else if runAgain == "exit" {
         return
     } else {
         print("Please choose to either continue or exit")
-        ContCheck()
+        contCheck()
     }
 }
-PigTrans()
-ContCheck()
+pigTrans()
+contCheck()

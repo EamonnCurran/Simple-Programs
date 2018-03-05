@@ -6,12 +6,11 @@
  *************************************************/
 
 console.log("Welcome to Flip a Coin!");
-var flips = promptNum("How many coins do you want flipped?");
+var flips = prompt("How many coins do you want flipped?");
 var tailsStreak = 0;
 var tailsStreakMax = 0;
 var headsStreak = 0;
 var headsStreakMax = 0;
-flipACoin(flips);
 
 function updateTailsStreak() {
 	/* Updates tails streak */
@@ -35,7 +34,7 @@ function flipACoin(flips) {
 	for (var i = 0; i < flips; i++) {
 		var result = randomNumber(0, 1);
 
-		if (result == 1) {
+		if (result === 1) {
 			heads++;
 			headsStreak++;
 			console.log("Heads");
@@ -55,3 +54,5 @@ function flipACoin(flips) {
 	console.log("The longest streak of heads in a row was: " + headsStreakMax);
 	console.log("The longest streak of tails in a row was: " + tailsStreakMax);
 }
+
+flipACoin(flips);

@@ -8,7 +8,7 @@ Copyright (C) 2018 Ethan Dye. All rights reserved.
 print("Welcome to Pig Latin Translator!")
 
 
-def PigTrans():
+def pigTrans():
     """Translates words into Pig Latin"""
     pyg = "ay"
     original = input("Enter a word:")
@@ -23,7 +23,7 @@ def PigTrans():
         print("Not a valid word")
 
 
-def ContCheck():
+def contCheck():
     """Checks if Python should run PigTrans again"""
     runAgain = input("""
 Please type 'continue'
@@ -32,14 +32,14 @@ or type 'exit' to close:
 """).lower()
 
     if runAgain == "continue":
-        PigTrans()
-        ContCheck()
+        pigTrans()
+        contCheck()
     elif runAgain == "exit":
         exit()
     else:
         print("Please choose to either continue or exit")
-        ContCheck()
+        contCheck()
 
 
-PigTrans()
-ContCheck()
+pigTrans()
+contCheck()

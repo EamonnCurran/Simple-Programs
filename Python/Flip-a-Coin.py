@@ -40,7 +40,7 @@ def flipACoin(flips):
     heads = 0
     tails = 0
 
-    for x in range(0, flips):
+    for _ in range(0, flips):
         result = random.randint(0, 1)
 
         if result == 1:

@@ -7,7 +7,7 @@
 
 console.log("Welcome to Pig Latin Translator!");
 
-function PigTrans() {
+function pigTrans() {
 	/* Translates words into Pig Latin */
 	var pyg = "ay";
 	var original = prompt("Enter a word:");
@@ -22,23 +22,23 @@ function PigTrans() {
 	}
 }
 
-function ContCheck() {
+function contCheck() {
 	/* Checks if JavaScript should run PigTrans again */
 	var runAgain = prompt(
 		"Please type 'continue' to translate another word or type 'exit' to close:"
 	);
 	runAgain.toLowerCase();
 
-	if (runAgain == "continue") {
-		PigTrans();
-		ContCheck();
-	} else if (runAgain == "exit") {
+	if (runAgain === "continue") {
+		pigTrans();
+		contCheck();
+	} else if (runAgain === "exit") {
 		return;
 	} else {
 		console.log("Please choose to either continue or exit");
-		ContCheck();
+		contCheck();
 	}
 }
 
-PigTrans();
-ContCheck();
+pigTrans();
+contCheck();

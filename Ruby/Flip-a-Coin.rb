@@ -29,7 +29,7 @@ def flipACoin(flips)
   # Flips a coin
   heads = 0
   tails = 0
-  for i in 1..flips
+  for _ in 1..flips
     result = rand(2)
     if result == 1
       heads += 1

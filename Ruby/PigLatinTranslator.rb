@@ -5,7 +5,7 @@
 
 puts 'Welcome to Pig Latin Translator!'
 
-def PigTrans()
+def pigTrans()
   # Translates words into Pig Latin
   pyg = 'ay'
   puts 'Enter a word:'
@@ -22,22 +22,22 @@ def PigTrans()
   end
 end
 
-def ContCheck()
+def contCheck()
   # Checks if Ruby should run PigTrans again
   puts 'Please type "continue" to translate another word or type "exit" to close:'
   runAgain = gets.strip
   runAgain.downcase!
 
   if runAgain == 'continue'
-    PigTrans()
-    ContCheck()
+    pigTrans()
+    contCheck()
   elsif runAgain == 'exit'
     abort
   else
     puts 'Please choose to either continue or exit'
-    ContCheck()
+    contCheck()
   end
 end
 
-PigTrans()
-ContCheck()
+pigTrans()
+contCheck()

@@ -15,10 +15,10 @@ This is a repository of simple programs written in many languages to help show t
 
 # Contributing
 
-We'd love you to contribute to Simple Programs . First, please read our [Contribution Guide](https://github.com/Mrtops/Simple-Programs/blob/master/docs/CONTRIBUTING.md#contributing-to-simple-programs) and
+We'd love you to contribute to Simple Programs. First, please read our [Contribution Guide](https://github.com/Mrtops/Simple-Programs/blob/master/docs/CONTRIBUTING.md#contributing-to-simple-programs) and
 [Code of Conduct](https://github.com/Mrtops/Simple-Programs/blob/master/docs/CODE_OF_CONDUCT.md#code-of-conduct).
 
-A good starting point for contributing is finding a program you like and seeing what languages it still needs and try to add them
+A good starting point for contributing is finding a program you like and seeing what languages it still needs and try to add them.
 
 Alternatively, for something more substantial, check out one of the issues labeled help wanted
 

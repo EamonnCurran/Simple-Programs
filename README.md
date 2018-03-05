@@ -1,6 +1,8 @@
 # Simple Programs
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![GitHub issues](https://img.shields.io/github/issues/Mrtops/Simple-Programs.svg)](https://github.com/Mrtops/Simple-Programs/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Mrtops/Simple-Programs.svg)](https://github.com/Mrtops/Simple-Programs/pulls)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1660daa3396946619972e9e915dc4204)](https://www.codacy.com/app/mrtops03/Simple-Programs?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Mrtops/Simple-Programs&amp;utm_campaign=Badge_Grade)
 
 This is a repository of simple programs written in many languages to help show the differences between them all. Please feel free to contribute.

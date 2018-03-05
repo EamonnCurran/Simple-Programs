@@ -26,6 +26,6 @@
 
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
-* Commit used:
-* Operating System and version (desktop or mobile):
-* Link to your project:
+*   Commit used:
+*   Operating System and version (desktop or mobile):
+*   Link to your project:

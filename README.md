@@ -54,4 +54,4 @@ Hello, World! is the classic "Hello, World!" program
 [![Language](https://img.shields.io/badge/language-Ruby-B11205.svg)](https://github.com/Mrtops/Simple-Programs/blob/master/Ruby/PigLatinTranslator.rb)
 [![Language](https://img.shields.io/badge/language-Swift-FC3A26.svg)](https://github.com/Mrtops/Simple-Programs/blob/master/Swift/PigLatinTranslator.swift)
 
-PigLatinTranslator is a simple program that translates english words into their Pig-Latin variants
+PigLatinTranslator is a simple program that translates English words into their Pig-Latin variants

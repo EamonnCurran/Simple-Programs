@@ -17,15 +17,19 @@ extension String {
     var length: Int {
         return self.characters.count
     }
+
     subscript (i: Int) -> String {
         return self[i ..< i + 1]
     }
+
     func substring(fromIndex: Int) -> String {
         return self[min(fromIndex, length) ..< length]
     }
+
     func substring(toIndex: Int) -> String {
         return self[0 ..< max(0, toIndex)]
     }
+
     subscript (r: Range<Int>) -> String {
         let range = Range(uncheckedBounds: (lower: max(0, min(length, r.lowerBound)),
                                             upper: min(length, max(0, r.upperBound))))
@@ -34,10 +38,11 @@ extension String {
         return String(self[start ..< end])
     }
 }
-func doHaveNum(_string: String) -> Bool {
+
+func doHaveNum(string: String) -> Bool {
     let numberRegEx = ".*[0-9]+.*"
     let testCase = NSPredicate(format: "SELF MATCHES %@", numberRegEx)
-    let containsNumber = testCase.evaluate(with: _string)
+    let containsNumber = testCase.evaluate(with: string)
     return containsNumber
 }
 
@@ -46,12 +51,12 @@ func pigTrans() {
     let pyg = "ay"
     print("Enter a word:")
     let original = getInput()
-    if original.count > 0 && doHaveNum(_string: original) {
+    if original.count > 0 && doHaveNum(string: original) {
         let word = original.lowercased()
         let first = word[0]
         let second = word[1].uppercased()
-        let new_word = second + word.substring(fromIndex: 1) + first + pyg
-        print(new_word)
+        let newWord = second + word.substring(fromIndex: 1) + first + pyg
+        print(newWord)
     } else {
         print("Not a valid word")
     }

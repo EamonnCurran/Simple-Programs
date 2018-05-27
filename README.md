@@ -54,6 +54,7 @@ Hello, World! is the classic "Hello, World!" program
 
 [![Language](https://img.shields.io/badge/language-JavaScript-F7DF1E.svg)](https://github.com/Mrtops/Simple-Programs/blob/master/JavaScript/PigLatinTranslator.js)
 [![Language](https://img.shields.io/badge/language-Python-3673A6.svg)](https://github.com/Mrtops/Simple-Programs/blob/master/Python/PigLatinTranslator.py)
+[![Language](https://img.shields.io/badge/language-C-A8B9CC.svg)](https://github.com/Mrtops/Simple-Programs/blob/master/C/PigLatinTranslator.c)
 [![Language](https://img.shields.io/badge/language-Ruby-B11205.svg)](https://github.com/Mrtops/Simple-Programs/blob/master/Ruby/PigLatinTranslator.rb)
 [![Language](https://img.shields.io/badge/language-Swift-FC3A26.svg)](https://github.com/Mrtops/Simple-Programs/blob/master/Swift/PigLatinTranslator.swift)
 

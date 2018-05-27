@@ -10,7 +10,7 @@ int main() {
   int i;
 
   printf("Welcome to Pig Latin Translator!\nEnter a single word: ");
-  scanf("%s",&word); //reads input from user
+  scanf("%20s",&word); //reads input from user
 
   for(i=1;i<20;i++){ //loop to print the string but leaves the first letter out
     printf("%c",word[i]);
